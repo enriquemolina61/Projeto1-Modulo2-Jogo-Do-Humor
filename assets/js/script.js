@@ -9,9 +9,7 @@ const img = document.querySelector("img");
 const button = document.querySelector(".button");
 const nome = document.querySelector("#nome");
 
-// button.addEventListener("click", function() {
 
-// });
 let mudanca = 0;
 function alterar() {
   if (mudanca == 0) {
